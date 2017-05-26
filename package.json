@@ -1,0 +1,14 @@
+{
+  "name": "sample1",
+  "version": "1.0.0",
+  "description": "This is just a strart",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "console.log('start')",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
